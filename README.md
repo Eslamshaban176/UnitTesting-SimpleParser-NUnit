@@ -1,6 +1,8 @@
 # 🧪 UnitTesting-SimpleParser-NUnit
 
-This repository contains a simple demonstration of writing **unit tests using NUnit** in .NET. It includes a console application (`FirstDay`) with basic logic and a separate test project (`FirstDay.Tests`) to test the core functionalities of the `SimpleParser` class and a custom `IsPrime` function.
+This repository contains a simple demonstration of writing **unit tests using NUnit** in .NET. It includes:
+- a console application (`FirstDay`) with basic logic.
+- a separate test project (`FirstDay.Tests`) to test the core functionalities of the `SimpleParser` class and a custom `IsPrime` function.
 
 ---
 
