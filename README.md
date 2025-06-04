@@ -4,6 +4,27 @@ This repository contains a simple demonstration of writing **unit tests using NU
 
 ---
 
+## ✅ Requirements
+
+Before running the solution or tests, make sure you have:
+
+- [.NET SDK 7.0 or later](https://dotnet.microsoft.com/download)
+- **NuGet Packages:**
+
+### In `FirstDay.Tests/` project:
+- `NUnit` – Unit testing framework  
+- `NUnit3TestAdapter` – Enables running tests in Visual Studio 
+- `Microsoft.NET.Test.Sdk` – Required to run any tests
+
+You can install the packages via NuGet Package Manager or CLI:
+
+```bash
+dotnet add package NUnit
+dotnet add package NUnit3TestAdapter
+dotnet add package Microsoft.NET.Test.Sdk
+```
+---
+
 ## 📁 Project Structure
 ```
   UnitTesting-SimpleParser-NUnit/
