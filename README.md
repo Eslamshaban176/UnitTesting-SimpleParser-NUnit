@@ -81,7 +81,7 @@ Or using Visual Studio's Test Explorer, Or From Tab | Tests | In Rider.
 
 - Clone the repository:
 ```bash
-git clone https://github.com/yourusername/UnitTesting-SimpleParser-NUnit.git
+git clone https://github.com/Eslamshaban176/UnitTesting-SimpleParser-NUnit.git
 ```
 Open the solution in Visual Studio or VS Code.
 
